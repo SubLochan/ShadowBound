@@ -14,6 +14,10 @@
 		{
 			"Name": "LudusAI",
 			"Enabled": false
+		},
+		{
+			"Name": "Fab",
+			"Enabled": false
 		}
 	],
 	"TargetPlatforms": [
