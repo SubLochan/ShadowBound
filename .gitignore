@@ -40,7 +40,10 @@
 *.sdf
 *.VC.db
 *.VC.opendb
+<<<<<<< HEAD
 *.keystore
+=======
+>>>>>>> 03b2afded910a2b9f851432d0be7792f9e936fdb
 
 # Precompiled Assets
 SourceArt/**/*.png
@@ -73,5 +76,8 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 03b2afded910a2b9f851432d0be7792f9e936fdb
